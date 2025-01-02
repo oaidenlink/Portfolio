@@ -1,0 +1,122 @@
+{
+    "Language": "Français",
+
+    "Home": {
+        "nav": "Home",
+        "welcome": "Welcome to my portfolio!",
+        "welcomeDesc": "Currently looking for work!",
+
+        "lookAtThis": "Come take a look at what I've done!",
+        "look": "See my projects"
+    },
+    "Projects": {
+        "nav": "Projects",
+        "projectsTitle": "Projects",
+        "projectsDesc": "Whether it's about level design or animations, I have many talents to show. Here's a few of my best projects I had the chance to work on.",
+        "projectsAja": {
+            "Title": "Aja et la Forêt des Esprits (French only)",
+            "Class": "Game 4 class (Winter 2023) - 2D game",
+            "Tools": "Created with: Unity (C#), Animate, BandLab",
+            "Quote": "\" Protect the forest and fight against the knights of the ruins. Remember to take a compass at the shop! \"",
+            "Desc": "This project was completed in 15 weeks by teams of two. I had the opportunity to grasp the constraints while creating coherent visuals. Additionally, I had the chance to analyze and solve numerous operational problems, which enhanced my understanding of Unity.",
+            "TestGame": "Test it out!",
+            "Link": "https://jtremblay.tim-cstj.ca/jeu4/2023/promo/v6/",
+            "Images": {}
+        },
+        "projectsDemon": {
+            "Title": "The Small Demon",
+            "Class": "2D Animation (Winter 2022) - 2D Animation",
+            "Tools": "Created with: Animate",
+            "Quote": "\" He jumps, he attacks, he laughs, but most importantly: he's... nice? \"",
+            "Desc": "\"Le Petit Démon\" (The Small Demon) is a character I've created a while ago that I had the opportunity to animate in this class. I had the chance to develop a unique theme and showcase many details through this character.",
+            "TestGame": "Watch the video!",
+            "Link": "https://youtu.be/jyDQX3skUhQ",
+            "Images": {}
+        },
+        "projectsAstres": {
+            "Title": "Les Astres de nos Complices (French Only)",
+            "Class": "Personal Project (Winter 2024) - 3D game",
+            "Tools": "Created with: Unity, Blender, BandLab",
+            "Quote": "\" Welcome to Alpharus, the most serene planet of the universe! \"",
+            "Desc": "Explore this small planet and get to know the many adventurers that inhabit it! Who knows, maybe you'll make friends... or lend them a hand!",
+            "TestGame": "Test it out!",
+            "Link": "",
+            "Images": {}
+        },
+        "projectsPersonal": {
+            "Title": "Personal works",
+            "Class": "Traditional and digital art",
+            "Tools": "Created with: Clip Studio Paint",
+            "Quote": "",
+            "Desc": "Here are a few of my art pieces that I am most proud of, which I had the chance to create during my free time!",
+            "Images": {
+                "Florithe": {
+                    "src": "",
+                    "alt": "Florithe",
+                    "title": "Florithe",
+                    "desc": "Summer 2023"
+                },
+                "Sundrop": {
+                    "src": "",
+                    "alt": "Sundrop from FNaF",
+                    "title": "Sundrop - The Sun",
+                    "desc": "Fall 2023"
+                },
+                "Sketchbook": {
+                    "src": "",
+                    "alt": "Sketchbook",
+                    "title": "Sketchbook #6",
+                    "desc": "Summer 2022 - ongoing"
+                }
+            }
+        }
+    },
+    "About": {
+        "AboutLangue": "CV_Eng",
+
+        "nav": "About",
+        "AboutTitle": "About me",
+
+        "AboutWho": "Who am I?",
+        "AboutName": "Aiden Link Oliveira",
+        "AboutBirthday": "I'm 21!",
+        "AboutLikes": "I'm very passionate about art, writing and video games.",
+        "AboutDesc": "I'm an artist looking for new job experiences in a dynamic team where I'll be able to push my artistic limits. I'm looking to work on big projects where I can stand out and contribute to creating a project in which the whole team will take pride!",
+        "AboutMeImg": "",
+        "AboutMeImgAlt": "It's me, Aiden!",
+        "AboutMeEmailTitle": "Business email:",
+        "AboutMeEmail": "estrellaoffthehook@gmail.com",
+
+        "AboutAbilitiesTitle": "My skills",
+        "AboutAbilitiesProg": "Programing multiple languages",
+        "AboutAbilitiesProgDesc": "I am able to code more than just C#! I also know JavaScript, CSS and React for your needs.",
+        "AboutAbilitiesAnim": "Create many types of animations",
+        "AboutAbilitiesAnimDesc": "Whether its 2D or 3D, you can expect quality animations.",
+        "AboutAbilitiesDesign": "Design UI and interfaces",
+        "AboutAbilitiesDesignDesc": "It's easy for me to create UI for all types of games, as you can see from my many projects.",
+
+        "AboutCVTitle": "My CV",
+        "AboutCVDesc": "If you are looking for more details about me, here's my CV!",
+        "AboutCVDownload": "../assets/cv/AidenOliveiraCV_Eng.pdf",
+        "AboutCVDownloadDesc": "Download my CV!"
+    },
+    "Contact": {
+        "nav": "Contact",
+        "ContactTitle": "Contact",
+
+        "ContactDesc": "My profile caught your eye? Don't hesitate to contact me!",
+        "ContactEmail": "estrellaoffthehook@gmail.com",
+        
+        "ContactSeeMoreTitle": "Want to see more?",
+        "ContactSeeMore": "You can find me on these social medias!",
+        "ContactLinkedIn": "https://www.linkedin.com/in/aidenoliveira/",
+        "ContactBehance": "https://www.behance.net/aidenoliveira",
+        "ContactX": "https://twitter.com/EstrellaOffHook",
+        "ContactInstagram": "https://www.instagram.com/estrellaoffthehook?igsh=eHk4MjhqOThycG1k",
+        "ContactElse": "... or find me as EstrellaOffTheHook anywhere!"
+    },
+    "Footer": {
+        "ThankYou": "A massive thank you for all my classmates for helping me on various projects!",
+        "Copyright": "© 2024. This website has been entirely made by me and hosted by ____."
+    }
+}

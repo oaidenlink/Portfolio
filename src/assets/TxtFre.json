@@ -1,0 +1,123 @@
+{
+    "Language": "English",
+
+    "Home": {
+        "nav": "Accueil",
+        "welcome": "Bienvenue sur mon portfolio!",
+        "welcomeDesc": "Actuellement en recherche d'emploi!",
+
+        "lookAtThis": "Jetez un coup d'œil sur mes œuvres!",
+        "look": "Voir les projets"
+    },
+    "Projects": {
+        "nav": "Projets",
+        "projectsTitle": "Projets",
+        "projectsDesc": "Que ça soit en level design ou en animation 2D, j’ai beaucoup de talent à revendre. Voici donc mes meilleurs projets !",
+        "projectsAja": {
+            "Title": "Aja et la Forêt des Esprits",
+            "Class": "Jeu vidéo 4 (Hiver 2023) - Jeu 2D",
+            "Tools": "Créé avec: Unity (C#), Animate, BandLab",
+            "Quote": "« Protégez la forêt et battez-vous contre les chevaliers des ruines. Pensez à prendre une boussole à la boutique ! »",
+            "Desc": "Ce projet a été réalisé en 15 semaines en équipe de deux. J’ai pu définir les contraintes tout en créant un visuel cohérent. J’ai eu la chance d’analyser et résoudre des problèmes opérationnels qui m’ont permis d’en apprendre beaucoup sur Unity !",
+            "TestGame": "Testez le jeu !",
+            "Link": "https://jtremblay.tim-cstj.ca/jeu4/2023/promo/v6/",
+            "Images": {}
+        },
+        "projectsDemon": {
+            "Title": "Le Petit Démon",
+            "Class": "Animation 2D (Hiver 2022) - Animation 2D",
+            "Tools": "Créé avec: Animate",
+            "Quote": "« Il saute, il attaque, il rit, mais le plus important de tout ça: il est... gentil ? »",
+            "Desc": "Le Petit Démon est un personnage que j’ai créé moi-même il y a quelque temps de ça, dont j’ai eu l’opportunité d’animer. J’ai pu illustrer un thème unique et identifier les détails marquants de l’animation à travers ce personnage.",
+            "TestGame": "Visionnez !",
+            "Link": "https://youtu.be/jyDQX3skUhQ",
+            "Images": {}
+        },
+        "projectsAstres": {
+            "Title": "Les Astres de nos Complices",
+            "Class": "Projet Personnel (Hiver 2024) - Jeu 3D",
+            "Tools": "Créé avec: Unity, Blender, BandLab",
+            "Quote": "« Bienvenue sur Alpharus, la planète la plus tranquille de l'espace ! »",
+            "Desc": "Explorez une petite planète et faites connaissances aux divers aventuriers qui l'habite! Qui sait, vous allez peut-être vous faire des amis... ou leur donner un coup de main.",
+            "TestGame": "Testez le jeu !",
+            "Link": "",
+            "Images": {}
+        },
+        "projectsPersonal": {
+            "Title": "Œuvres personnelles",
+            "Class": "Art traditionnel et digital",
+            "Tools": "Créé avec: Clip Studio Paint",
+            "Quote": "",
+            "Desc": "Voici les œuvres dont je suis plus fier et que j’ai eu la chance d’illustrer durant mon temps libre !",
+            "TestGame": "",
+            "Link": "",
+            "Images": {
+                "Florithe": {
+                    "src": "",
+                    "alt": "Florithe",
+                    "title": "Florithe",
+                    "desc": "Été 2023"
+                },
+                "Sundrop": {
+                    "src": "",
+                    "alt": "Sundrop de FNaF",
+                    "title": "Sundrop - Le Soleil",
+                    "desc": "Automne 2023"
+                },
+                "Sketchbook": {
+                    "src": "",
+                    "alt": "Sketchbook",
+                    "title": "Sketchbook #6",
+                    "desc": "Été 2022 - en cours"
+                }
+            }
+        }
+    },
+    "About": {
+        "AboutLangue": "./cv/AidenOliveiraCV_Fre.pdf",
+
+        "nav": "À propos",
+        "AboutTitle": "À propos",
+
+        "AboutWho": "Qui suis-je ?",
+        "AboutName": "Aiden Link Oliveira",
+        "AboutBirthday": "J'ai 21 ans !",
+        "AboutLikes": "J'ai une très grosse passion pour l'art, l'écriture et les jeux vidéos",
+        "AboutDesc": "Je suis un artiste à la recherche de nouvelles expériences de travail dans une équipe dynamique afin de pousser mes talents créatifs. Je cherche à créer de grands projets où je peux me démarquer et ajouter mes idées afin de remettre un résultat dont toute l’équipe sera fière !",
+        "AboutMeImg": "",
+        "AboutMeImgAlt": "C'est moi, Aiden !",
+        "AboutMeEmailTitle": "Courriel professionnel :",
+        "AboutMeEmail": "estrellaoffthehook@gmail.com",
+
+        "AboutAbilitiesTitle": "Mes compétences en multimédia",
+        "AboutAbilitiesProg": "Programmer plusieurs types de code",
+        "AboutAbilitiesProgDesc": "Je suis capable de programmer bien plus que des jeux vidéo (C#)! Je connais aussi JavaScript, CSS, et React!",
+        "AboutAbilitiesAnim": "Créer plusieurs types d’animations",
+        "AboutAbilitiesAnimDesc": "Que l’animation soit en 2D ou en 3D, vous pouvez vous attendre à une animation de qualité.",
+        "AboutAbilitiesDesign": "Réaliser du design d’interface",
+        "AboutAbilitiesDesignDesc": "J’ai une aisance pour la fabrication d’interface de jeu, on peut le remarquer dans plusieurs de mes projets.",
+
+        "AboutCVTitle": "Mon CV",
+        "AboutCVDesc": "Si vous cherchez plus de détails sur mon profil, voici mon CV pour tout vos besoins !",
+        "AboutCVDownload": "../assets/cv/AidenOliveiraCV_Fre.pdf",
+        "AboutCVDownloadDesc": "Téléchargez mon CV"
+    },
+    "Contact": {
+        "nav": "Contact",
+        "ContactTitle": "Contact",
+        "ContactDesc": "Mon profil vous intéresse ? N'hésitez-pas à me contacter !",
+        "ContactEmail": "estrellaoffthehook@gmail.com",
+        
+        "ContactSeeMoreTitle": "Envie d’en voir plus?",
+        "ContactSeeMore": "Vous pouvez me retrouver sur les réseaux suivants!",
+        "ContactLinkedIn": "https://www.linkedin.com/in/aidenoliveira/",
+        "ContactBehance": "https://www.behance.net/aidenoliveira",
+        "ContactX": "https://twitter.com/EstrellaOffHook",
+        "ContactInstagram": "https://www.instagram.com/estrellaoffthehook?igsh=eHk4MjhqOThycG1k",
+        "ContactElse": "... ou trouvez-moi sous EstrellaOffTheHook un peu partout !"
+    },
+    "Footer": {
+        "ThankYou": "Un gros merci à tous mes collègues de classe pour leur aide et leur travail à travers mes différents projets !",
+        "Copyright": "© 2024. Ce site a été entièrement fait par moi et hébergé par ______."
+    }
+}

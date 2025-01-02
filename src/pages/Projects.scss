@@ -1,0 +1,263 @@
+div.projects {
+    color: white;
+    text-align: center;
+
+    @media (min-width: 2000px) { 
+      font-size: 1.1em;
+    }
+
+    @media (min-width: 2800px) { 
+      font-size: 1.4em;
+    }
+
+    & div.entete {
+
+          & h2 {
+            font-size: 2em;
+            color: var(--white);
+            text-transform: uppercase;
+
+            @media (min-width: 768px) { 
+              padding-top: 1em;
+            }
+
+            @media (min-width: 2000px) { 
+              font-size: 2.3em;
+            }
+          }
+
+          & p {
+            color: var(--white);
+            padding: 0 1em;
+          }
+    }
+
+    & div.school-projects {
+        padding-top: 1em;
+
+        & div.Aja, div.Demon, div.Astres {
+          @media (min-width: 768px) { 
+            padding-top: 1.6em;
+          }
+
+          & div.details {
+            
+            & h3 {
+              font-size: 1.5em;
+              font-family: "Gochi Hand", cursive;
+              margin-bottom: 0;
+              font-weight: normal;
+              color: var(--light);
+
+              @media (min-width: 768px) { 
+                font-size: 1.7em;
+              }
+            }
+
+            & p.class {
+              margin-top: 0;
+            }
+
+            & p.tools, p.desc {
+              padding: 0 1rem;
+
+              @media (min-width: 768px) { 
+                padding: 0 3em;
+              }
+
+              @media (min-width: 1200px) { 
+                padding: 0 10em;
+              }
+            }
+
+            & p.quote {
+              font-style: italic;
+
+              @media (min-width: 768px) { 
+                padding: 0 4em;
+              }
+            }
+          }
+
+          & div.assets {
+            padding: 1em;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+
+            & div.images {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+
+              & img {
+                width: 70vw;
+                margin: 0;
+                padding: 0;
+
+                @media (min-width: 768px) { 
+                  margin-left: 2em;
+                }
+
+                @media (min-width: 992px) { 
+                  margin-left: 5em;
+                }
+
+                @media (min-width: 1400px) { 
+                  width: 60vw;
+                  margin-left: 7em;
+                }
+
+                @media (min-width: 2000px) { 
+                  margin-left: 10em;
+                }
+
+                @media (min-width: 2800px) { 
+                  margin-left: 20em;
+                }
+              }
+            }
+
+            & a.test {
+              background-color: var(--light);
+              padding: 0.5em;
+              border-radius: 1em;
+              font-weight: 900;
+              text-transform: uppercase;
+              text-decoration: none;
+              color: var(--dark);
+              height: 1.3em;
+              margin-left: -3.5em;
+              margin-top: 6em;
+
+              @media (min-width: 576px) { 
+                margin-top: 9em;
+              }
+
+              @media (min-width: 768px) { 
+                font-size: 1.2em;
+                margin-top: 12em;
+              }
+
+              @media (min-width: 992px) { 
+                margin-left: -5em;
+                margin-right: 4em;
+                margin-top: 14em;
+              }
+
+              @media (min-width: 1200px) { 
+                margin-top: 20em;
+              }
+
+              @media (min-width: 1400px) { 
+                margin-right: 9em;
+              }
+
+              @media (min-width: 2000px) { 
+                width: 12em;
+                margin-top: 25em;
+              }
+
+              &:hover {
+                color: var(--mdark);
+              }
+
+              &:active {
+                background-color: var(--mdark);
+                color: var(--dark);
+              }
+            }
+          }
+        }
+    }
+
+    & div.personal-projects {
+      @media (min-width: 768px) { 
+        padding-top: 2em;
+      }
+
+      & h3 {
+        margin-bottom: 0;
+        font-size: 1.5em;
+        font-family: "Gochi Hand", cursive;
+        font-weight: normal;
+        color: var(--light);
+
+        @media (min-width: 768px) { 
+          font-size: 1.7em;
+        }
+      }
+
+      & p.class {
+        margin-top: 0;
+      }
+
+      & p.tools, p.desc {
+        padding: 0 1rem;
+
+        @media (min-width: 768px) { 
+          padding: 0 4em;
+        }
+
+        @media (min-width: 1200px) { 
+          padding: 0 10em;
+        }
+      }
+
+      & div.grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1em;
+        padding: 0 1em;
+
+        @media (min-width: 768px) { 
+          padding-top: 1em;
+        }
+
+        @media (min-width: 992px) { 
+          padding: 1em 5em;
+          gap: 2em;
+        }
+
+        @media (min-width: 1200px) { 
+          grid-template-columns: 1fr 1fr 1fr;
+        }
+
+        @media (min-width: 2000px) { 
+          padding: 1em 10em;
+        }
+
+        & div.item {
+          background-color: var(--mdark);
+
+          & img {
+            padding-top: 0.5em;
+            width: 90%;
+          }
+
+          & h4 {
+            font-style: italic;
+            font-family: "Gochi Hand", cursive;
+            font-weight: normal;
+            font-size: 1.3em;
+            margin-bottom: 0;
+            padding-bottom: 0;
+
+            @media (min-width: 768px) { 
+              font-size: 1.7em;
+              margin-top: 0.8em;
+            }
+          }
+
+          & p {
+            margin-top: 0;
+            font-size: 0.9em;
+
+            @media (min-width: 2000px) { 
+              font-size: 1em;
+          }
+          }
+        }
+      }
+
+    }
+}
